@@ -24,6 +24,7 @@
 🔹8. Confirme se o git realmente está instalado:
 
 git --version
+
 🔹9. Vamos começar as configurações iniciais:
 
 ​ 9.1 Configurar o nome de usuário
@@ -35,4 +36,5 @@ git config --global user.email seuemail@email.br
 ​ 9.3 Vamos conferir a lista de configurações:
 
 git config --list
+
 🔹10. Pronto, git instalado e configurado com sucesso!
