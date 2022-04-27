@@ -30,9 +30,11 @@ git --version
 ​ 9.1 Configurar o nome de usuário
 
 git config --global user.name "Seu nome"
+
 ​ 9.2 Configurar o endereço de e-mail:​ É de suma importância que o ENDEREÇO DE E-MAIL SEJA O MESMO DO GITHUB afim de evitar conflitos!
 
 git config --global user.email seuemail@email.br
+
 ​ 9.3 Vamos conferir a lista de configurações:
 
 git config --list
